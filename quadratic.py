@@ -39,4 +39,4 @@ else:
     x2 = (-b-math.sqrt(discriminant)/(2*a))
     print("==> x2=",x2)
 
-    print ("\nThe quadratic equation has two roots: ", x1, " or", x2)
+    print ("\nThe quadratic equation has two roots: ", x1, " or ", x2)
